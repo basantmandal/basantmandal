@@ -15,7 +15,7 @@
 - [https://basantmandal.github.io/](https://basantmandal.github.io/)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7602650/basant-mandal) 
 
 ## 💰 You can help me by Donating
