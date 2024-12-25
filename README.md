@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Basant Mandal (HashTagKitto)</h1>
-<h3 align="center">Web Developer || MERN || Adobe Commerce Partners (Magento2) || Azure AZ-900 Certified</h3>
+
+<h3 align="center">MERN Stack Developer || Adobe Commerce Partners (Magento2) || Azure AZ-900 Certified</h3>
 
 - 🔭 I’m currently working on [Open Source Ecommerce Project](https://github.com/basantmandal/ecommerce_mern_ecomm)
 
@@ -9,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.basantmandal.in/projects](https://www.basantmandal.in/projects)
 
-- 💬 Ask me about **React, Node, MongoDB, Magento2 & Docker**
+- 💬 Ask me about **React.js, Next.js, Node.js, Magento2 & Docker**
 
 - 📫 How to reach me **support@hashtagkitto.in**
 
