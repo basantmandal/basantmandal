@@ -37,6 +37,9 @@ Feel free to reach me through the below handles if you'd like to contact me.
 [![stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/7602650/basant-mandal)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basantmandal/)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/profile/basantmandal)
+[![dockerhub](https://img.shields.io/badge/-Docker%20Hub%20Contributor-0A66C2?logo=docker&logoColor=white&style=for-the-badge)](https://hub.docker.com/u/basantmandal)
+[![MagentoCommercePartner](https://img.shields.io/badge/-Magento%20Extension%20Partner-FE7A16?logo=adobe&logoColor=white&style=for-the-badge)](https://commercemarketplace.adobe.com/partner/Basant+Mandal)
+
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/basantmandal) 
