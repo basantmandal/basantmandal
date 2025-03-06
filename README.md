@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Basant Mandal A.K.A HashTagKitto</h1>
 
-#### [Full Stack Developer](https://www.basantmandal.in/) || [Open Source Contributor](https://github.com/basantmandal?tab=repositories) || [Adobe Commerce Partners (Magento2)](https://commercemarketplace.adobe.com/partner/Basant+Mandal) || [Azure AZ-900 Certified](https://www.credly.com/badges/3cf23be6-bbba-4d4f-ae64-af8bf5ca58ee)
+#### [MERN Stack Developer](https://www.basantmandal.in/) || [Open Source Contributor](https://github.com/basantmandal?tab=repositories) || [Adobe Commerce Partners (Magento2)](https://commercemarketplace.adobe.com/partner/Basant+Mandal) || [Azure AZ-900 Certified](https://www.credly.com/badges/3cf23be6-bbba-4d4f-ae64-af8bf5ca58ee)
 
 ### 🔭 About Me
 I'm a Senior Web Engineer with over **7 years** of experience in Full Stack Development. I specialize in building scalable web applications and cloud-based deployments. My expertise spans various technologies, including:
