@@ -1,4 +1,4 @@
-# Basant Mandal
+<H1 align="center">Basant Mandal</H1>
 
 #### [MERN Stack Developer](https://www.basantmandal.in/) || [Open Source Contributor](https://github.com/basantmandal?tab=repositories) || [Adobe Commerce Partners (Magento2)](https://commercemarketplace.adobe.com/partner/Basant+Mandal) || [Azure AZ-900 Certified](https://www.credly.com/badges/3cf23be6-bbba-4d4f-ae64-af8bf5ca58ee)
 
