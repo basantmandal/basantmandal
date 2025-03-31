@@ -6,14 +6,16 @@
 
 ### 👋 About Me
 
-I'm a Senior Web Engineer with over 7 years of experience in Full Stack Development. I specialize in building scalable web applications and cloud-based deployments. My expertise includes:
+**Senior Web Engineer** specializing in **Full Stack Development**, specializing in **scalable web applications** and **cloud-based deployments**.  
 
--   **React.js**: 2 years
--   **Next.js**: 6 months
--   **Node.js**: 6 months
--   **Magento 2**: 3 years
+**Key Expertise:**  
 
-I thrive on using Agile methodologies to deliver user focused, high performance solutions that align with business goals.
+- **MERN Stack** – Modern web application development  
+- **Magento 2** – E-commerce solutions and customization  
+- **Docker** – Containerization and deployment efficiency  
+- **Cloud** – Scalable infrastructure and cloud-native applications  
+
+Passionate about **Agile development** and love building efficient, reliable, and high-performing solutions that meet business needs. 
 
 ---
 
