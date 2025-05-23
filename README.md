@@ -6,7 +6,7 @@
 
 ### 👋 About Me
 
-**Senior Web Engineer** specializing in **Full Stack Development**, specializing in **scalable web applications** and **cloud-based deployments**.  
+**Senior Web Engineer** specializing in **Full Stack Development**, specializing in **scalable web applications** and **cloud based deployments**.  
 
 **Key Expertise:**  
 
