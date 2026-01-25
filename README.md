@@ -10,21 +10,21 @@
 
 **Key Expertise:**  
 
-- **MERN Stack** – Modern web application development  
+- **PERN Stack** – Modern web application development  
 - **Magento 2** – E-commerce solutions and customization  
 - **Docker** – Containerization and deployment efficiency  
 - **Cloud** – Scalable infrastructure and cloud-native applications  
 
-Passionate about **Agile development** and love building efficient, reliable, and high-performing solutions that meet business needs. 
+Passionate about **Agile development** and love building efficient, reliable, and high-performing solutions that meet business needs.
 
 ---
 
 ### 🌱 What I Do
 
--   ✅ Develop scalable web applications using MERN Stack.
--   ✅ Implement cloud based deployments.
--   ✅ Develop and customize Magento 2 modules.
--   ✅ Automate workflows using CI/CD pipelines
+- ✅ Develop scalable web applications using MERN Stack.
+- ✅ Implement cloud based deployments.
+- ✅ Develop and customize Magento 2 modules.
+- ✅ Automate workflows using CI/CD pipelines
 
 ---
 
@@ -36,21 +36,21 @@ I'm always open to collaborating on Magento modules and MERN Stack projects. Let
 
 ### 🛠️ Technologies & Tools
 
--   **Frontend**: React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, ANT Design
--   **Backend**: Node.js, Express, Swell API, PHP/MySQL, MongoDB, Redis, Magento 2
--   **DevOps & Tools**: Docker, Git, GitHub Actions, JIRA, PM2, Nginx
--   **Cloud**: Azure (Microsoft Certified: Azure AZ-900), AWS (EC2), Vercel, Ubuntu
+- **Frontend**: React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, ANT Design
+- **Backend**: Node.js, Express, Swell API, PHP/MySQL, MongoDB, Redis, Magento 2
+- **DevOps & Tools**: Docker, Git, GitHub Actions, JIRA, PM2, Nginx
+- **Cloud**: Azure (Microsoft Certified: Azure AZ-900), AWS (EC2), Vercel, Ubuntu
 
 ---
 
 ### 🍰 Certifications
 
--   [Microsoft Certified: Azure AZ-900](https://www.credly.com/badges/3cf23be6-bbba-4d4f-ae64-af8bf5ca58ee)
--   [Foundation of Google Project Management](https://www.coursera.org/account/accomplishments/verify/VB9FYJCQLT7F)
+- [Microsoft Certified: Azure AZ-900](https://www.credly.com/badges/3cf23be6-bbba-4d4f-ae64-af8bf5ca58ee)
+- [Foundation of Google Project Management](https://www.coursera.org/account/accomplishments/verify/VB9FYJCQLT7F)
 
 ---
 
-### 🚀 Connect with me & let's collaborate and build something amazing!
+### 🚀 Connect with me & let's collaborate and build something amazing
 
 | Platform                                | Link                                                                                                                       |
 | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
