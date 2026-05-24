@@ -37,7 +37,7 @@ I'm always open to collaborating on Magento modules and MERN Stack projects. Let
 ### 🛠️ Technologies & Tools
 
 - **Frontend**: React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, ANT Design
-- **Backend**: Node.js, Express, Swell API, PHP/MySQL, MongoDB, Redis, Magento 2
+- **Backend**: Node.js, Express, Swell API, PHP/MySQL, PostgreSQL, Redis, Magento 2
 - **DevOps & Tools**: Docker, Git, GitHub Actions, JIRA, PM2, Nginx
 - **Cloud**: Azure (Microsoft Certified: Azure AZ-900), AWS (EC2), Vercel, Ubuntu
 
