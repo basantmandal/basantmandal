@@ -6,14 +6,14 @@
 
 ### 👋 About Me
 
-**Senior Web Engineer** specializing in **Full Stack Development**, specializing in **scalable web applications** and **cloud based deployments**.  
+**Senior Web Engineer** specializing in **Full Stack Development**, specializing in **scalable web applications** and **cloud based deployments**.
 
-**Key Expertise:**  
+**Key Expertise:**
 
-- **PERN Stack** – Modern web application development  
-- **Magento 2** – E-commerce solutions and customization  
-- **Docker** – Containerization and deployment efficiency  
-- **Cloud** – Scalable infrastructure and cloud-native applications  
+- **PERN Stack** – Modern web application development
+- **Magento 2** – E-commerce solutions and customization
+- **Docker** – Containerization and deployment efficiency
+- **Cloud** – Scalable infrastructure and cloud-native applications
 
 Passionate about **Agile development** and love building efficient, reliable, and high-performing solutions that meet business needs.
 
@@ -45,6 +45,7 @@ I'm always open to collaborating on Magento modules and MERN Stack projects. Let
 
 ### 🍰 Certifications
 
+- [Anthropic - Claude 101](https://verify.skilljar.com/c/w8ynefs4349j)
 - [Microsoft Certified: Azure AZ-900](https://www.credly.com/badges/3cf23be6-bbba-4d4f-ae64-af8bf5ca58ee)
 - [Foundation of Google Project Management](https://www.coursera.org/account/accomplishments/verify/VB9FYJCQLT7F)
 
