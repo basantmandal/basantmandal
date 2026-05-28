@@ -21,7 +21,7 @@ Passionate about **Agile development** and love building efficient, reliable, an
 
 ### 🌱 What I Do
 
-- ✅ Develop scalable web applications using MERN Stack.
+- ✅ Develop scalable web applications using PERN Stack.
 - ✅ Implement cloud based deployments.
 - ✅ Develop and customize Magento 2 modules.
 - ✅ Automate workflows using CI/CD pipelines
@@ -30,7 +30,7 @@ Passionate about **Agile development** and love building efficient, reliable, an
 
 ### 👯 Collaboration Goals
 
-I'm always open to collaborating on Magento modules and MERN Stack projects. Let's build something amazing together!
+I'm always open to collaborating on Magento modules and PERN Stack projects. Let's build something amazing together!
 
 ---
 
