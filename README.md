@@ -6,7 +6,7 @@
 
 # 👋 About Me
 
-I'm a **Senior Web Engineer** with **8+ years of experience** building scalable web applications, e-commerce platforms, and cloud-native solutions.
+I'm a **Senior Web Engineer** with **8.10 years of experience** building scalable web applications, e-commerce platforms, and cloud-native solutions.
 
 I specialize in **Full Stack Development**, **Magento 2**, **Cloud Infrastructure**, **DevOps**, and **AI-assisted software engineering**, using modern LLMs to improve development speed, code quality, testing, and documentation.
 
