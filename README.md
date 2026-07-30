@@ -46,7 +46,7 @@ I actively leverage modern AI tools throughout the software development lifecycl
 
 ### Frontend
 
-React • Next.js • TypeScript • JavaScript • Tailwind CSS • Ant Design
+React • Next.js • TypeScript • JavaScript • Tailwind CSS
 
 ### Backend
 
@@ -58,7 +58,7 @@ Docker • Git • GitHub Actions • Linux • Nginx • PM2 • CI/CD
 
 ### Cloud
 
-Microsoft Azure • AWS EC2 • Vercel • Ubuntu Server
+Microsoft Azure • AWS • Vercel • Cloudflare • Cloudways • Ubuntu Server
 
 ### AI & Developer Tools
 
