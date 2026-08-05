@@ -1,12 +1,12 @@
 # [Basant Mandal](https://www.basantmandal.in/)
 
-### [Senior Web Engineer](https://www.basantmandal.in/) • [Open Source Contributor](https://github.com/basantmandal?tab=repositories) • [Adobe Commerce (Magento 2) Partner](https://commercemarketplace.adobe.com/partner/Basant+Mandal) • [Microsoft Azure AZ-900 Certified](https://www.credly.com/badges/3cf23be6-bbba-4d4f-ae64-af8bf5ca58ee)
+### [Senior Web Engineer](https://www.basantmandal.in/) • [Open Source Contributor](https://github.com/basantmandal?tab=repositories) • [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/users/basantmandal/credentials/5d5fed85293f556e) • [Docker Hub Profile](https://hub.docker.com/u/basantmandal)
 
 ---
 
 # 👋 About Me
 
-I'm a **Senior Web Engineer** with **8.10 years of experience** building scalable web applications, e-commerce platforms, and cloud-native solutions.
+I'm a **Senior Web Engineer** with **9 years of experience** building scalable web applications, e-commerce platforms, and cloud-native solutions.
 
 I specialize in **Full Stack Development**, **Magento 2**, **Cloud Infrastructure**, **DevOps**, and **AI-assisted software engineering**, using modern LLMs to improve development speed, code quality, testing, and documentation.
 
@@ -16,7 +16,7 @@ I enjoy architecting production-ready applications with clean code, automation, 
 
 # 🚀 What I Build
 
-- ✅ Full Stack applications using the **PERN Stack**
+- ✅ Full Stack applications using **Node.js, TypeScript, React/Next.js, and MySQL**
 - ✅ Adobe Commerce (Magento 2) extensions & integrations
 - ✅ Docker-based local and production environments
 - ✅ Cloud deployments on Azure, AWS, and Linux
@@ -50,7 +50,7 @@ React • Next.js • TypeScript • JavaScript • Tailwind CSS
 
 ### Backend
 
-Node.js • Express • PHP • Magento 2 • PostgreSQL • MySQL • Redis • REST APIs • GraphQL
+Node.js • Express • PHP • Magento 2 • MySQL • Redis • REST APIs
 
 ### DevOps
 
@@ -58,7 +58,7 @@ Docker • Git • GitHub Actions • Linux • Nginx • PM2 • CI/CD
 
 ### Cloud
 
-Microsoft Azure • AWS • Vercel • Cloudflare • Cloudways • Ubuntu Server
+Microsoft Azure • AWS EC2 • Vercel • Cloudflare • Cloudways • Ubuntu Server
 
 ### AI & Developer Tools
 
@@ -69,7 +69,7 @@ Claude • ChatGPT • Gemini • Ollama • OpenRouter • GitHub Copilot • C
 # 🌱 Current Focus
 
 - Building production-ready Magento 2 modules
-- Architecting scalable PERN applications
+- Deepening distributed-systems fundamentals (Redis, PostgreSQL, system design)
 - Creating AI-powered developer tooling
 - Improving software quality through automation
 - Contributing to Open Source
@@ -81,7 +81,7 @@ Claude • ChatGPT • Gemini • Ollama • OpenRouter • GitHub Copilot • C
 I'm always interested in collaborating on:
 
 - Magento 2 Extensions
-- PERN Stack Applications
+- Node.js / TypeScript Backend Projects
 - AI-powered Developer Tools
 - Open Source Projects
 - DevOps & Automation
@@ -90,9 +90,12 @@ I'm always interested in collaborating on:
 
 # 🏅 Certifications
 
-- [Anthropic – Claude 101](https://verify.skilljar.com/c/w8ynefs4349j)
+- [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/users/basantmandal/credentials/5d5fed85293f556e)
 - [Microsoft Certified: Azure AZ-900](https://www.credly.com/badges/3cf23be6-bbba-4d4f-ae64-af8bf5ca58ee)
+- [Anthropic – Claude 101](https://verify.skilljar.com/c/w8ynefs4349j)
 - [Google Project Management Foundations](https://www.coursera.org/account/accomplishments/verify/VB9FYJCQLT7F)
+- HackerRank – JavaScript (Basic)
+- HackerRank – React (Basic)
 
 ---
 
