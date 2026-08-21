@@ -1,6 +1,6 @@
 # [Basant Mandal](https://www.basantmandal.in/)
 
-### [Senior Web Engineer](https://www.basantmandal.in/) • [Open Source Contributor](https://github.com/basantmandal?tab=repositories) • [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/users/basantmandal/credentials/5d5fed85293f556e) • [Docker Hub Profile](https://hub.docker.com/u/basantmandal)
+### [Senior Web Engineer](https://www.basantmandal.in/) • [Open Source Contributor](https://github.com/basantmandal?tab=repositories) • [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/en-us/users/basantmandal/credentials/5d5fed85293f556e) • [Docker Hub Profile](https://hub.docker.com/u/basantmandal) • [Adobe Commerce Partner](https://commercemarketplace.adobe.com/partner/Basant%20Mandal)
 
 ---
 
@@ -90,7 +90,7 @@ I'm always interested in collaborating on:
 
 # 🏅 Certifications
 
-- [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/users/basantmandal/credentials/5d5fed85293f556e)
+- [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/en-us/users/basantmandal/credentials/5d5fed85293f556e)
 - [Microsoft Certified: Azure AZ-900](https://www.credly.com/badges/3cf23be6-bbba-4d4f-ae64-af8bf5ca58ee)
 - [Anthropic – Claude 101](https://verify.skilljar.com/c/w8ynefs4349j)
 - [Google Project Management Foundations](https://www.coursera.org/account/accomplishments/verify/VB9FYJCQLT7F)
@@ -108,7 +108,7 @@ I'm always interested in collaborating on:
 | 💡 Stack Overflow | https://stackoverflow.com/users/7602650/basant-mandal |
 | 🏆 HackerRank | https://www.hackerrank.com/basantmandal |
 | 🐳 Docker Hub | https://hub.docker.com/u/basantmandal |
-| 🏬 Adobe Commerce Partner | https://commercemarketplace.adobe.com/partner/Basant+Mandal |
+| 🏬 Adobe Commerce Partner | https://commercemarketplace.adobe.com/partner/Basant%20Mandal |
 
 ---
 
