@@ -17,9 +17,10 @@ I enjoy architecting production-ready applications with clean code, automation, 
 
 ## 🚀 What I Build
 
-I build **scalable web applications, developer tools, and cloud-native solutions**, with a focus on automation, performance, and maintainability.
+I build **scalable web applications, developer tools, and cloud-native solutions**, with a focus on **performance, automation, reliability, and maintainability**.
 
-* 🧩 **Full-Stack Applications** — Node.js, TypeScript, React, Next.js, and MySQL
+* 🧩 **Full-Stack Applications** — Node.js, TypeScript, React, Next.js, MySQL, Redis, and BullMQ
+* ⚡ **Background Jobs & Queues** — Redis and BullMQ for asynchronous processing, scheduled jobs, job queues, retries, and distributed workloads
 * 🛒 **Adobe Commerce / Magento 2** — Custom extensions, integrations, and e-commerce solutions
 * 🐳 **Containerized Infrastructure** — Docker-based development, testing, and production environments
 * ☁️ **Cloud & Linux** — Deployments and infrastructure across Azure, AWS, and Linux
